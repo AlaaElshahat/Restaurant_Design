@@ -1,0 +1,97 @@
+.mealcard {
+    box-shadow: 2px 5px 9px 0 rgb(227, 17, 17);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+    border-radius: 30px;
+  }
+  .price {
+    color: rgb(227, 17, 17);
+    font-size: 25px;
+    font-style: oblique;
+  }
+  
+  .mealcard button {
+    outline: 0;
+    padding: 12px;
+    color: white;
+    border: 1px white;
+    background-color: rgb(189, 184, 184);
+    border-radius: 22px;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+  }
+  
+  .mealcard button:hover {
+    opacity: 0.5;
+  }
+  tr,td{
+    padding: 20px;
+}
+a{
+    text-align: center;
+    text-decoration: double;
+    padding-left: 30px;
+    font-size: larger;
+    font-weight: 700;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    color: rgb(227, 17, 17);
+    
+    
+}
+.content {
+    position: absolute;
+    top: 30%;
+    left: 50%;
+     text-align: center;
+    padding: 0 40px;
+}
+.vl {
+    border-left: 2px solid rgb(227, 17, 17);
+    height: 80px;
+    display: inline-block;
+  }
+#home{
+    background-image: url(../images/home.jpg);
+     background-size: cover;
+     background-position: center center;
+     height: 750px;
+    
+     
+ }
+ .socialbutton {
+    border: 1px solid  rgb(227, 17, 17);
+    padding: 15px;
+    text-align: center;
+    display: inline-block;
+    margin: 4px ;
+    border-radius: 50%;
+  }
+ 
+.content h1 {
+font-size: 70px;
+font-weight: bold;
+text-transform: uppercase;
+    margin-bottom: 40px;
+}
+.mealtable
+{
+        text-align: center;
+        margin: auto;
+}
+.mealtable tr,td{
+    padding: 20px;
+}
+img{
+    width: 300px;
+    height: 300px;
+    border-radius:30px ;
+}
+
+
+
+

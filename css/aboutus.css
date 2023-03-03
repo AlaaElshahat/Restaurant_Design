@@ -1,0 +1,47 @@
+#home{
+    background-image: url(../images/home.jpg);
+     background-size: cover;
+     background-position: center center;
+     height: 750px;
+     opacity: 0.7;
+    
+     
+ }
+ .content {
+    position: absolute;
+    top: 38%;
+    left: 50%;
+     text-align: center;
+    padding: 0 40px;
+}
+.content h1 {
+    font-size: 70px;
+    font-weight: bold;
+    text-transform: uppercase;
+        margin-bottom: 40px;
+    }
+        a{
+            text-align: center;
+            text-decoration: double;
+            padding-left: 30px;
+            font-size: larger;
+            font-weight: 700;
+            font-family: 'Times New Roman', Times, serif;
+            font-style: normal;
+            color: rgb(227, 17, 17);
+            
+            
+        }
+        .vl {
+            border-left: 2px solid rgb(227, 17, 17);
+            height: 60px;
+            display: inline-block;
+          }
+          .socialbutton {
+            border: 1px solid  rgb(227, 17, 17);
+            padding: 15px;
+            text-align: center;
+            display: inline-block;
+            margin: 4px ;
+            border-radius: 50%;
+          }
